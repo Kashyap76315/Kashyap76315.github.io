@@ -1,0 +1,39 @@
+body
+{
+	background-color: #694A38;
+    color: #F4AC45 ;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+header, footer, h2, h3, figure
+{
+  text-align: center;
+}
+
+a, a:visited, a:hover, a:active
+{
+    color:ivory;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav
+{
+	text-align: center;
+}
+
+.navigation
+{
+    max-width: 800px;
+    margin: auto;
+    padding: 10px;
+}
+
+.mainwriting
+{
+    padding: 7%;
+    margin: 60px;
+    font-size: large;
+}

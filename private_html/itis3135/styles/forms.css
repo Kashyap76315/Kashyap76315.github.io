@@ -96,3 +96,7 @@ input[type=reset]:hover
 {
   text-align: center;
 }
+
+.valid a:hover {
+  text-decoration: none;
+}

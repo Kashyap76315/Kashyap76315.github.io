@@ -37,3 +37,7 @@ nav
     margin: 60px;
     font-size: large;
 }
+
+.valid a:hover {
+    text-decoration: none;
+}

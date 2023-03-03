@@ -54,3 +54,7 @@ nav
     border-radius: 5px;
     cursor: pointer;
 }
+
+.valid a:hover {
+    text-decoration: none;
+}

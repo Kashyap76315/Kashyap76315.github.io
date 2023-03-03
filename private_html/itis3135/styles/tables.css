@@ -129,3 +129,7 @@ nav
     margin: auto;
     padding: 10px;
 }
+
+.valid a:hover {
+    text-decoration: none;
+}

@@ -265,3 +265,15 @@ input[type=reset]:hover
     background-color: #ddd;
 
 }
+
+
+/*  */
+/* Contract STYLES */
+/*  */
+
+.contractMainWritingP
+{
+    padding: 2%;
+    margin: 40px;
+    font-size: large;
+}

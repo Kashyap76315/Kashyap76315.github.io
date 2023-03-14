@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function() {
       </nav>
       <nav style="padding: 2%;">
       <a href="stuff/ KRAPPYCRAPPYWE.htm">Crappy Website</a> |
-      <a href="">Accessibility</a>
+      <a href="accessibility/Patel-Activity_Accessibility.html">Accessibility</a>
       </nav>
     `;
     document.body.insertBefore(header, document.body.firstChild);
